@@ -17,15 +17,3 @@ Designed for managing restaurants and providing API endpoints to interact with d
 ✔️ Reactive and smooth frontend
 
 ---
-
-## 🧱 Project Structure
-
-📦findMyRestaurant/
- ┣ 📂controllers/
- ┣ 📂frontend/
- ┣ 📂models/
- ┣ 📂routes/
- ┣ ├── app.js
- ┣ ├── package.json
- ┣ ├── .gitignore
- ┣ └── README.md
